@@ -1,0 +1,14 @@
+/Temp/*
+/Library/*
+/Builds/*
+/Build/*
+/BuildWGL/*
+/obj/*
+/.vs/*
+/UnityPackageManager/*
+/etc/*
+*.cs.meta
+*.orig
+*.csproj
+*.sln
+*.keystore
